@@ -5,4 +5,6 @@ do nothing
 go
 
 Git is a free software distributed under the GPL.
+
+Git tracks changes.
  
