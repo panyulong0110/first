@@ -1,1 +1,1 @@
-first git.
+My first git for study.
