@@ -1,1 +1,3 @@
 My first git. For blablabla.
+Git is free software ...
+
